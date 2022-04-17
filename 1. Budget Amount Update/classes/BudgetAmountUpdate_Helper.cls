@@ -45,7 +45,7 @@ global class BudgetAmountUpdate_Helper {
         
 	}
     
-    global static void BudgetAmountUpdate_Deletion(List<Contact> contactList){
+    /*global static void BudgetAmountUpdate_Deletion(List<Contact> contactList){
         
         SET<ID> accIds = new SET<ID>();
         LIST<Contact> relatedContacts = new LIST<Contact>();
@@ -55,7 +55,7 @@ global class BudgetAmountUpdate_Helper {
         
         
         
-    }
+    }*/
     
              
 }
