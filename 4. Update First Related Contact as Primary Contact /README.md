@@ -1,4 +1,4 @@
-Primary Contact Update
+Update First Related Contact as Primary Contact 
 
 Scenario - When a related contact of an Account is created we have to perform the following :
 
