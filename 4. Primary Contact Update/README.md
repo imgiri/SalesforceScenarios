@@ -10,6 +10,8 @@ DESIGN CONSIDERATIONS :
 
 1. Create a custom field of type Checkbox on the Contact Object named “Primary Contact (API name : Primary_Contact__c with default value false)”.
 
+2. Whenever a related contact is being created, the checkbox value should be marked true for the very first contact which will be created or already created.
+
 Cover the appropriate trigger context variables(Insert, Update, Delete, and Undelete).
 
 
