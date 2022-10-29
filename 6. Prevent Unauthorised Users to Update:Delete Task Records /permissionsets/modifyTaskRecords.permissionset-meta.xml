@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PermissionSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customPermissions>
+        <enabled>true</enabled>
+        <name>modifyTaskRecords</name>
+    </customPermissions>
+    <description>The permission set allows user to update or delete the tasks records.</description>
+    <hasActivationRequired>false</hasActivationRequired>
+    <label>modifyTaskRecords</label>
+    <license>Salesforce</license>
+</PermissionSet>
